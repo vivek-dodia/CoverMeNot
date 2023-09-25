@@ -21,7 +21,15 @@ Ever thought, "Wow, I can't wait to write another cover letter"? Yeah, me neithe
 
 6. **Check Output**: 
    - Head over to the output folder (or wherever you told it to save) and marvel at your brand new cover letter.
+     
+We're leveraging the power of **BeautifulSoup** 🍲 to scrape the job deets off that URL you so generously provided. Spice it up with 🌶️:
 
+- You'll spot a `known_keywords` 📝 list in the script. It's chock-full of industry lingo 🤓.
+- **Go nuts** 🥜 and tweak this list with any other industry-specific buzzwords 🐝.
+- Post-scrape, BeautifulSoup and Python's `Counter` 📊 team up to tally the most frequently dropped terms from our `known_keywords`.
+- These hot terms 🌶️ are then magically ✨ placed into the template.
+
+So there you have it, a **customized cover letter** that's recruiter-friendly 🤝. Mind = blown 🤯.
 Bam! You're now prepped to wow some hiring peeps without even breaking a sweat. 👌
 
 --------------------------------------
