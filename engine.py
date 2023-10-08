@@ -6,7 +6,7 @@ import re
 from fpdf import FPDF
 
 # pointing to jinja external template
-file_loader = FileSystemLoader("C:/Users/Vivek/Documents/coverlettergen")
+file_loader = FileSystemLoader(".")
 env = Environment(loader=file_loader)
 template = env.get_template("template.j2")
 
