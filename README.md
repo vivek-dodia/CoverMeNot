@@ -78,6 +78,4 @@ Wondering what makes this magic trick tick? Look no further:
 ### 🤝 Contributing 🤝
 Hey, I might get busy with other tech wizardry or simply get too lazy. This project is open-source so feel free to contribute and make it even cooler than it already is. 🚀
 
-
-
->>>>>>> 6405468ac85f5845f1db2a645120060966f65048
+Also im working on a web frotend for this just because i want to learn more about creating APIs here https://github.com/vivek-dodia/CoverMeNot_WebApp 
